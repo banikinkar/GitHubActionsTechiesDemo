@@ -1,4 +1,5 @@
-GitHub Actions
+**GitHub Actions**
+
 Feature in GitHub to create custom Automated Workflows
 automate SDLC workflows
 implement CI CD DevOps
